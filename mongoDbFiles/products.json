@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "5ffb4fc192736b4130a9e4d3"
+  },
+  "price": 21999,
+  "countInStock": 100,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "GTX gamer egér",
+  "image": "/uploads\\1610305429576.jpg",
+  "brand": "Trust",
+  "category": "Gaming mouse",
+  "description": "A mouse designed for gamers. Gaming mice have adjustable sensitivity, which is configurable as the number of dots per inch (DPI). The greater the DPI, the farther the cursor moves on screen with the same amount of mouse movement. In general, a higher DPI setting (1000 DPI and more) is used for gaming as well as for monitors with very high resolution. However, in a video game, the higher DPI may help or hinder depending on the zoom level of the scene. Higher DPI lets the gamer make quick movements, while lower DPI allows for smaller, precise movements. See DPI, gaming PC and gaming keyboard.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffb4fe392736b4130a9e4d4"
+  },
+  "price": 19999,
+  "countInStock": 150,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Sensei gamer egér",
+  "image": "/uploads\\1610305495682.jpg",
+  "brand": "Steelseries",
+  "category": "Gaming mouse",
+  "description": "A mouse designed for gamers. Gaming mice have adjustable sensitivity, which is configurable as the number of dots per inch (DPI). The greater the DPI, the farther the cursor moves on screen with the same amount of mouse movement. In general, a higher DPI setting (1000 DPI and more) is used for gaming as well as for monitors with very high resolution. However, in a video game, the higher DPI may help or hinder depending on the zoom level of the scene. Higher DPI lets the gamer make quick movements, while lower DPI allows for smaller, precise movements. See DPI, gaming PC and gaming keyboard.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffb503692736b4130a9e4d5"
+  },
+  "price": 39999,
+  "countInStock": 200,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "RGB gamer billentyűzet",
+  "image": "/uploads\\1610305566235.jpg",
+  "brand": "Tesoro",
+  "category": "Gaming keyboard",
+  "description": "A computer keyboard designed for gamers. Although there are several controllers with dials and levers for games, the W, A, S and D letter keys on the standard QWERTY keyboard are also widely used. On gaming keyboards, which are mostly mechanical, the key switches require less depression and result in faster action for games. There may also be extra keys that are user configurable for macros (commonly used key sequences). See video game controller, gaming mouse, gaming PC, mechanical keyboard, WASD keys and macro.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffb506f92736b4130a9e4d6"
+  },
+  "price": 89999,
+  "countInStock": 100,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "4k monitor",
+  "image": "/uploads\\1610305615195.jpg",
+  "brand": "acer",
+  "category": "Monitor",
+  "description": " A display screen used to provide visual output from a computer, cable box, camera or other video-generating device. Computer monitors use CRT and LCD technology, while TV monitors use LCD and OLED technologies. See analog monitor, digital monitor and flat panel display.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffb509b92736b4130a9e4d7"
+  },
+  "price": 199999,
+  "countInStock": 4,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "PlayStation 5",
+  "image": "/uploads\\1610305667773.jpg",
+  "brand": "Sony",
+  "category": "Game console",
+  "description": "A video game console from Sony that was introduced in the U.S. in 1995. In 2020, the PlayStation 5 is the latest model (see PS5).",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffb50c392736b4130a9e4d8"
+  },
+  "price": 189999,
+  "countInStock": 50,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Xbox one",
+  "image": "/uploads\\1610305708220.jpg",
+  "brand": "Microsoft",
+  "category": "Game console",
+  "description": "A very popular video game console from Microsoft. Introduced in 2001, the Xbox was designed to compete with Sony's PlayStation and Nintendo's GameCube. With Netflix, YouTube and a variety of other video streaming services built in, the Xbox was also widely used as a home entertainment source. Music, video and photo collections on a PC could be streamed to the Xbox using Microsoft's Zune software until Zune was shuttered in 2015.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffb50fc92736b4130a9e4d9"
+  },
+  "price": 29999,
+  "countInStock": 30,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Speaker CCV343",
+  "image": "/uploads\\1610305759130.jpg",
+  "brand": "Fluance",
+  "category": "Speaker",
+  "description": "A device that converts analog audio signals into the equivalent air vibrations in order to make audible sound. When CRT monitors were the norm, speakers designed for computers were shielded to avoid magnetic interference with the CRT's magnetic coil.\n",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffb513c92736b4130a9e4da"
+  },
+  "price": 19999,
+  "countInStock": 100,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Webcam HD",
+  "image": "/uploads\\1610305833624.jpg",
+  "brand": "SriHome",
+  "category": "Webcamera",
+  "description": "A video camera that faces the user. Webcams are built into laptops but are separate units that attach to the monitor of a desktop computer. A Webcam is used for video calling and taking selfies, and although most models include a microphone, many users opt to use headphones for better audio quality. Stand-alone microphones with greater sensitivity are also used for studio presentations.\n",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffb517192736b4130a9e4db"
+  },
+  "price": 29999,
+  "countInStock": 20,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Gamer headphone XGC",
+  "image": "/uploads\\1610305874748.jpg",
+  "brand": "Trust",
+  "category": "Headset",
+  "description": "A pair of head-mounted speakers that are positioned over the ears. For listening to music or monitoring live performances, both left and right channels are required. Although often called headphones, when a microphone is included for telephone or video calls, the device is technically a \"headset.\"",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffb51a792736b4130a9e4dc"
+  },
+  "price": 25000,
+  "countInStock": 23,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Microphone XG40",
+  "image": "/uploads\\1610305916314.jpg",
+  "brand": "Trust",
+  "category": "Microphone",
+  "description": "A device that converts sound waves into analogous electrical waves. Commonly called a \"mic\" (pronounced \"mike\"), it contains a flexible diaphragm composed of film or foil that vibrates as it makes contact with the sound. The diaphragm movement modulates an electrical current by various methods. In a carbon mic, used in telephones for more than a hundred years, the diaphragm alters the pressure in carbon grains, changing its resistance.",
+  "reviews": [],
+  "__v": 0
+}]

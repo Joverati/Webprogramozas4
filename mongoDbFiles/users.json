@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "5ffb464c92736b4130a9e4c7"
+  },
+  "isAdmin": false,
+  "name": "Nagy Valaki",
+  "email": "exoruha@gmail.com",
+  "password": "viglen10",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffb47af92736b4130a9e4c8"
+  },
+  "isAdmin": true,
+  "name": "Basir",
+  "email": "admin@example.com",
+  "password": "1234",
+  "__v": 0
+}]
